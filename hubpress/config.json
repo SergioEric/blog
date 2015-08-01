@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "SergioEric",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"SergioEric","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"BLog- Sergio Eric","description":"Lorem ipsum dolor sit amet, consectetur aas.","url":"https://SergioEric.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//SergioEric.github.io/blog/themes/Casper"}}
